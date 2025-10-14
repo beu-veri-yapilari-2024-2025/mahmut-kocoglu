@@ -17,7 +17,7 @@ namespace binary_search
                 Console.WriteLine("1) Bu dizide arama yap");
                 Console.WriteLine("2) Bu dizideki elemanları topla");
                 Console.WriteLine("3) Yeni bir dizi oluştur");
-                Console.WriteLine("3) Çıkış");
+                Console.WriteLine("4) Çıkış");
                 Console.WriteLine("------------------------");
                 Console.Write("Seçiminiz: ");
                 string secim = Console.ReadLine();
