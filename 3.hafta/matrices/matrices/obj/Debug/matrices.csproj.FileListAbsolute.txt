@@ -1,0 +1,8 @@
+C:\Users\mahmu\OneDrive\Masaüstü\veri_yapilari\mahmut-kocoglu\matrices\matrices\obj\Debug\matrices.csproj.AssemblyReference.cache
+C:\Users\mahmu\OneDrive\Masaüstü\veri_yapilari\mahmut-kocoglu\matrices\matrices\obj\Debug\matrices.csproj.CoreCompileInputs.cache
+C:\Users\mahmu\OneDrive\Masaüstü\veri_yapilari\mahmut-kocoglu\matrices\matrices\bin\Debug\matrices.exe.config
+C:\Users\mahmu\OneDrive\Masaüstü\veri_yapilari\mahmut-kocoglu\matrices\matrices\bin\Debug\matrices.exe
+C:\Users\mahmu\OneDrive\Masaüstü\veri_yapilari\mahmut-kocoglu\matrices\matrices\bin\Debug\matrices.pdb
+C:\Users\mahmu\OneDrive\Masaüstü\veri_yapilari\mahmut-kocoglu\matrices\matrices\obj\Debug\matrices.exe
+C:\Users\mahmu\OneDrive\Masaüstü\veri_yapilari\mahmut-kocoglu\matrices\matrices\obj\Debug\matrices.pdb
+C:\Users\mahmu\OneDrive\Masaüstü\veri_yapilari\mahmut-kocoglu\matrices\matrices\obj\Debug\matrices.exe.config
