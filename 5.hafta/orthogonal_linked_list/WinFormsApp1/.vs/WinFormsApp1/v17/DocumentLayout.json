@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\veri_yapilari\\mahmut-kocoglu\\5.hafta\\orthogonal_linked_list\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCCE8A8C-78B4-43E2-9E37-77C6A4E365AA}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\mahmu\\onedrive\\masa\u00FCst\u00FC\\veri_yapilari\\mahmut-kocoglu\\5.hafta\\orthogonal_linked_list\\winformsapp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCCE8A8C-78B4-43E2-9E37-77C6A4E365AA}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCCE8A8C-78B4-43E2-9E37-77C6A4E365AA}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\mahmu\\onedrive\\masa\u00FCst\u00FC\\veri_yapilari\\mahmut-kocoglu\\5.hafta\\orthogonal_linked_list\\winformsapp1\\winformsapp1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCCE8A8C-78B4-43E2-9E37-77C6A4E365AA}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCCE8A8C-78B4-43E2-9E37-77C6A4E365AA}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\mahmu\\onedrive\\masa\u00FCst\u00FC\\veri_yapilari\\mahmut-kocoglu\\5.hafta\\orthogonal_linked_list\\winformsapp1\\winformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCCE8A8C-78B4-43E2-9E37-77C6A4E365AA}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCCE8A8C-78B4-43E2-9E37-77C6A4E365AA}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\veri_yapilari\\mahmut-kocoglu\\5.hafta\\orthogonal_linked_list\\WinFormsApp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCCE8A8C-78B4-43E2-9E37-77C6A4E365AA}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\veri_yapilari\\mahmut-kocoglu\\5.hafta\\orthogonal_linked_list\\WinFormsApp1\\WinFormsApp1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\veri_yapilari\\mahmut-kocoglu\\5.hafta\\orthogonal_linked_list\\WinFormsApp1\\WinFormsApp1\\Form1.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\Form1.Designer.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAArwIMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T17:12:16.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\veri_yapilari\\mahmut-kocoglu\\5.hafta\\orthogonal_linked_list\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\veri_yapilari\\mahmut-kocoglu\\5.hafta\\orthogonal_linked_list\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwB8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T16:55:07.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\veri_yapilari\\mahmut-kocoglu\\5.hafta\\orthogonal_linked_list\\WinFormsApp1\\WinFormsApp1\\Class1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Class1.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\veri_yapilari\\mahmut-kocoglu\\5.hafta\\orthogonal_linked_list\\WinFormsApp1\\WinFormsApp1\\Class1.cs",
+              "RelativeToolTip": "WinFormsApp1\\Class1.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwCwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T16:47:16.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\veri_yapilari\\mahmut-kocoglu\\5.hafta\\orthogonal_linked_list\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\veri_yapilari\\mahmut-kocoglu\\5.hafta\\orthogonal_linked_list\\WinFormsApp1\\WinFormsApp1\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T16:46:21.1Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+C:\Users\mahmu\OneDrive\Masaüstü\veri_yapilari\mahmut-kocoglu\5.hafta\hanoi_towers\hanoi_towers\obj\Debug\hanoi_towers.csproj.AssemblyReference.cache
+C:\Users\mahmu\OneDrive\Masaüstü\veri_yapilari\mahmut-kocoglu\5.hafta\hanoi_towers\hanoi_towers\obj\Debug\hanoi_towers.csproj.CoreCompileInputs.cache
+C:\Users\mahmu\OneDrive\Masaüstü\veri_yapilari\mahmut-kocoglu\5.hafta\hanoi_towers\hanoi_towers\bin\Debug\hanoi_towers.exe.config
+C:\Users\mahmu\OneDrive\Masaüstü\veri_yapilari\mahmut-kocoglu\5.hafta\hanoi_towers\hanoi_towers\bin\Debug\hanoi_towers.exe
+C:\Users\mahmu\OneDrive\Masaüstü\veri_yapilari\mahmut-kocoglu\5.hafta\hanoi_towers\hanoi_towers\bin\Debug\hanoi_towers.pdb
+C:\Users\mahmu\OneDrive\Masaüstü\veri_yapilari\mahmut-kocoglu\5.hafta\hanoi_towers\hanoi_towers\obj\Debug\hanoi_towers.exe
+C:\Users\mahmu\OneDrive\Masaüstü\veri_yapilari\mahmut-kocoglu\5.hafta\hanoi_towers\hanoi_towers\obj\Debug\hanoi_towers.pdb
+C:\Users\mahmu\OneDrive\Masaüstü\veri_yapilari\mahmut-kocoglu\5.hafta\hanoi_towers\hanoi_towers\obj\Debug\hanoi_towers.exe.config

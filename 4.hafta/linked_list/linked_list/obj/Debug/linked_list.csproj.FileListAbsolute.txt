@@ -1,0 +1,7 @@
+C:\Users\mahmu\OneDrive\Masaüstü\veri_yapilari\mahmut-kocoglu\4.hafta\linked_list\linked_list\bin\Debug\linked_list.exe.config
+C:\Users\mahmu\OneDrive\Masaüstü\veri_yapilari\mahmut-kocoglu\4.hafta\linked_list\linked_list\bin\Debug\linked_list.exe
+C:\Users\mahmu\OneDrive\Masaüstü\veri_yapilari\mahmut-kocoglu\4.hafta\linked_list\linked_list\bin\Debug\linked_list.pdb
+C:\Users\mahmu\OneDrive\Masaüstü\veri_yapilari\mahmut-kocoglu\4.hafta\linked_list\linked_list\obj\Debug\linked_list.csproj.AssemblyReference.cache
+C:\Users\mahmu\OneDrive\Masaüstü\veri_yapilari\mahmut-kocoglu\4.hafta\linked_list\linked_list\obj\Debug\linked_list.csproj.CoreCompileInputs.cache
+C:\Users\mahmu\OneDrive\Masaüstü\veri_yapilari\mahmut-kocoglu\4.hafta\linked_list\linked_list\obj\Debug\linked_list.exe
+C:\Users\mahmu\OneDrive\Masaüstü\veri_yapilari\mahmut-kocoglu\4.hafta\linked_list\linked_list\obj\Debug\linked_list.pdb

@@ -1,0 +1,7 @@
+C:\Users\mahmu\OneDrive\Masaüstü\veri_yapilari\mahmut-kocoglu\5.hafta\2way_LinkedList\2way_LinkedList\bin\Debug\2way_LinkedList.exe.config
+C:\Users\mahmu\OneDrive\Masaüstü\veri_yapilari\mahmut-kocoglu\5.hafta\2way_LinkedList\2way_LinkedList\bin\Debug\2way_LinkedList.exe
+C:\Users\mahmu\OneDrive\Masaüstü\veri_yapilari\mahmut-kocoglu\5.hafta\2way_LinkedList\2way_LinkedList\bin\Debug\2way_LinkedList.pdb
+C:\Users\mahmu\OneDrive\Masaüstü\veri_yapilari\mahmut-kocoglu\5.hafta\2way_LinkedList\2way_LinkedList\obj\Debug\2way_LinkedList.csproj.AssemblyReference.cache
+C:\Users\mahmu\OneDrive\Masaüstü\veri_yapilari\mahmut-kocoglu\5.hafta\2way_LinkedList\2way_LinkedList\obj\Debug\2way_LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\mahmu\OneDrive\Masaüstü\veri_yapilari\mahmut-kocoglu\5.hafta\2way_LinkedList\2way_LinkedList\obj\Debug\2way_LinkedList.exe
+C:\Users\mahmu\OneDrive\Masaüstü\veri_yapilari\mahmut-kocoglu\5.hafta\2way_LinkedList\2way_LinkedList\obj\Debug\2way_LinkedList.pdb
