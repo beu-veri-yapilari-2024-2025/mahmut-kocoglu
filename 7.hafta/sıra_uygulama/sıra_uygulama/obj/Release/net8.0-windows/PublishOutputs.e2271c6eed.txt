@@ -1,0 +1,5 @@
+C:\Users\mahmu\OneDrive\Masaüstü\veri_yapilari\mahmut-kocoglu\7.hafta\sıra_uygulama.exe
+C:\Users\mahmu\OneDrive\Masaüstü\veri_yapilari\mahmut-kocoglu\7.hafta\sıra_uygulama.dll
+C:\Users\mahmu\OneDrive\Masaüstü\veri_yapilari\mahmut-kocoglu\7.hafta\sıra_uygulama.deps.json
+C:\Users\mahmu\OneDrive\Masaüstü\veri_yapilari\mahmut-kocoglu\7.hafta\sıra_uygulama.runtimeconfig.json
+C:\Users\mahmu\OneDrive\Masaüstü\veri_yapilari\mahmut-kocoglu\7.hafta\sıra_uygulama.pdb
