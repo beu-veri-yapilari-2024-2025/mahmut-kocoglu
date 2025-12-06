@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\veri_yapilari\\mahmut-kocoglu\\11. hafta\\BST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2A4868-D267-4B20-99DF-E2B7C18CC003}|BST\\BST.csproj|c:\\users\\mahmu\\onedrive\\masa\u00FCst\u00FC\\veri_yapilari\\mahmut-kocoglu\\11. hafta\\bst\\bst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2A4868-D267-4B20-99DF-E2B7C18CC003}|BST\\BST.csproj|solutionrelative:bst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\veri_yapilari\\mahmut-kocoglu\\11. hafta\\BST\\BST\\Program.cs",
+              "RelativeDocumentMoniker": "BST\\Program.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\veri_yapilari\\mahmut-kocoglu\\11. hafta\\BST\\BST\\Program.cs",
+              "RelativeToolTip": "BST\\Program.cs",
+              "ViewState": "AgIAAGMCAAAAAAAAAAAQwH0CAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T20:22:57.609Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

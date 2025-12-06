@@ -1,0 +1,8 @@
+C:\Users\mahmu\OneDrive\Masaüstü\veri_yapilari\mahmut-kocoglu\11. hafta\BST\BST\bin\Debug\BST.exe.config
+C:\Users\mahmu\OneDrive\Masaüstü\veri_yapilari\mahmut-kocoglu\11. hafta\BST\BST\bin\Debug\BST.exe
+C:\Users\mahmu\OneDrive\Masaüstü\veri_yapilari\mahmut-kocoglu\11. hafta\BST\BST\bin\Debug\BST.pdb
+C:\Users\mahmu\OneDrive\Masaüstü\veri_yapilari\mahmut-kocoglu\11. hafta\BST\BST\obj\Debug\BST.csproj.AssemblyReference.cache
+C:\Users\mahmu\OneDrive\Masaüstü\veri_yapilari\mahmut-kocoglu\11. hafta\BST\BST\obj\Debug\BST.csproj.CoreCompileInputs.cache
+C:\Users\mahmu\OneDrive\Masaüstü\veri_yapilari\mahmut-kocoglu\11. hafta\BST\BST\obj\Debug\BST.exe
+C:\Users\mahmu\OneDrive\Masaüstü\veri_yapilari\mahmut-kocoglu\11. hafta\BST\BST\obj\Debug\BST.pdb
+C:\Users\mahmu\OneDrive\Masaüstü\veri_yapilari\mahmut-kocoglu\11. hafta\BST\BST\obj\Debug\BST.exe.config
